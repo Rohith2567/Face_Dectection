@@ -45,7 +45,7 @@ data = {
             "name": "Rohith B",
             "major": "Robotics",
             "Starting_year": 2022,
-            "total_attendance":8,
+            "total_attendance":7,
             "standing":"G",
             "year":3,
             "last_attendance":"2022-12-11 00:54:34"
